@@ -55,7 +55,7 @@ Student-Management-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/ESHRATH907/Student-Management-System-Python.git
+git clone https://github.com/mrnarasimha98/Student-Management-System-
 ```
 
 Go to the project folder
@@ -148,9 +148,9 @@ python student-management-system.py
 
 ## 👩‍💻 Author
 
-**Eshrath Jahan**
+**Narasimha Reddy**
 
-GitHub: https://github.com/ESHRATH907
+GitHub: https://github.com/mrnarasimha98
 
 ---
 
